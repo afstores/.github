@@ -8,3 +8,7 @@ templates, and guidelines that apply across all repositories within AFStores.
 
 This file is a default template applied to all repositories in the AFStores organization. Changing this file
 will affect all repos.
+
+---
+Builds
+[![Build](https://github.com/afstores/Distribution.SymboticSync/actions/workflows/build-deploy-test.yml/badge.svg)](https://github.com/afstores/Distribution.SymboticSync/actions/workflows/build-deploy-test.yml)
