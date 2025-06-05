@@ -3,6 +3,8 @@
 This special .github repository serves as the central hub for our organization's default community health files, 
 templates, and guidelines that apply across all repositories within AFStores.
 
+This repo must be public. ** DO NOT PUBLISH INTERNAL CONFIDENTIAL INFORMATION **
+
 ---
 #### Pull Request Template (pull_request_template.md)
 
